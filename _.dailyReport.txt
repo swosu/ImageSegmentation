@@ -1,0 +1,11 @@
+(Put overall project goals here)
+
+
+Week of 11/12/18
+
+11/12/18
+Outage, did not come int
+
+11/13/18
+Met with Dr. Evert in the morning, set up a repository, found some resources that could be useful, and ran a CannyEdge algorithm in a Jupyter Notebook.
+Later worked on organizing repository, reading through resources, and working through what to do with the canny edge algorithm. 

@@ -1,0 +1,8 @@
+This document will serve as the explanation of everything located within this repository. For now:
+
+_.dailyReport: This text file contains a daily explanation of what was worked on each day of the project. At the end of each week, a summary of what was done and what
+      is planned to be accomplished next week will be included.
+
+Posters: This directory contains poster publications created during this research project
+
+PythonCanny: This directory contains code for a Canny Edge Image segmentation algorithm written in Python.
