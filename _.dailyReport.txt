@@ -30,4 +30,4 @@ Week of 11/19/2018
 A short week, hoping to wrap up my stuff on Monday
 
 11/19/2018
-
+Today, I finished up my stuff by segmenting my Zelda images using python code. From here, I need to do it with a database of ~10 images. 
