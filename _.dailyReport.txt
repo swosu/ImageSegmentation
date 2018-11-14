@@ -10,3 +10,10 @@ Outage, did not come int
 Met with Dr. Evert in the morning, set up a repository, found some resources that could be useful, and ran a CannyEdge algorithm in a Jupyter Notebook.
 Later worked on organizing repository, reading through resources, and working through what to do with the canny edge algorithm.
 Tomorrow: Need to open up VM and finish fixing Python3 and Jupyter. 
+
+11/14/18
+Came in at 3:00 and worked on reading through more resources as well as running through an
+example of image manipulation. Was able to pull colors out, invert colors, and greyscale 
+it as well as a few other things. 
+
+Tomorrow I will segment that image, and several others and analyze the code that does it.
