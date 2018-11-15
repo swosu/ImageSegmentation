@@ -9,4 +9,4 @@ Outage, did not come int
 11/13/18
 Met with Dr. Evert in the morning, set up a repository, found some resources that could be useful, and ran a CannyEdge algorithm in a Jupyter Notebook.
 Later worked on organizing repository, reading through resources, and working through what to do with the canny edge algorithm.
-Tomorrow: Need to open up VM and finish fixing Python3 and Jupyter. 
+Tomorrow: Need to open up VM and finish fixing Python3 and Jupyter. (should just need to sudo make install)
