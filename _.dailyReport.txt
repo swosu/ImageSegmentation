@@ -31,3 +31,9 @@ A short week, hoping to wrap up my stuff on Monday
 
 11/19/2018
 Today, I finished up my stuff by segmenting my Zelda images using python code. From here, I need to do it with a database of ~10 images. 
+
+
+Week of 11/26/2018
+
+11/26/2018
+Did a little work on segmenting multiple images, as well as did some reading. I think I can use an array, then iterate through it to load them all and then segment them all. That may not be the most efficient however. I'll have to do some more looking into it. 
