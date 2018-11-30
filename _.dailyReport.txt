@@ -38,12 +38,32 @@ Week of 11/26/2018
 11/26/2018
 Did a little work on segmenting multiple images, as well as did some reading. I think I can use an array, then iterate through it to load them all and then segment them all. That may not be the most efficient however. I'll have to do some more looking into it.
 
+Time:                             2:00-3:45
+Hours:                            1.75
+
+11/27/2018
+Spent much of today messing around with programming ideas as well as reading through one of the papers.
+
+Time:                             10:00-12:50, 2:30-4:50
+Hours:                            ~4
+
 
 11/28/2018
 I spent about 3 hours today working through the machine learning book, whcih is proving to be a much beter resource than the computer vision text
 I also have.
 
+Time:                            2:00-5:00
+Hours:                           3
+
+
+
 11/29/2018
 I did some reading on the Intro to MCMC paper. I hope to be able to have some findings by the end of tomorrow.
 
-Goals for tomorrow: have something to look into for Monday on putting some code down. 
+Goals for tomorrow: have something to look into for Monday on putting some code down.
+
+Time:                            10:00-12:00, 2:45-5:00
+Hours:                           4.25
+
+
+11/30/2019
