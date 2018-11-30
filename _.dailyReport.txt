@@ -74,3 +74,14 @@ Hours:                           ~1.5
 
 Total for this week:             13.5                   
 
+
+
+Week of 12/3/2018
+
+
+12/3/2018
+I got surprised today by a group project that I thought would be completed, but alas teammates never fail to let you down.
+I spent most of today working on that, but finished it up and came in for an hour. Looked through chapter 1.2.2 of my Machine Learning Text.
+
+Time: 				4:00-5:00
+Hours:				1
