@@ -22,18 +22,28 @@ Tomorrow I will segment that image, and several others and analyze the code that
 Today was the Research Fair, so I took care of that then caught up on homework in BTA for the rest of the day.
 Will accomplish the task I set out yesterday tomorrow.
 
-11/16/18 
-With Extra-life happening, I also was not able to make time to come in today. 
+11/16/18
+With Extra-life happening, I also was not able to make time to come in today.
 
 
 Week of 11/19/2018 (Thanksgiving Break)
 A short week, hoping to wrap up my stuff on Monday
 
 11/19/2018
-Today, I finished up my stuff by segmenting my Zelda images using python code. From here, I need to do it with a database of ~10 images. 
+Today, I finished up my stuff by segmenting my Zelda images using python code. From here, I need to do it with a database of ~10 images.
 
 
 Week of 11/26/2018
 
 11/26/2018
-Did a little work on segmenting multiple images, as well as did some reading. I think I can use an array, then iterate through it to load them all and then segment them all. That may not be the most efficient however. I'll have to do some more looking into it. 
+Did a little work on segmenting multiple images, as well as did some reading. I think I can use an array, then iterate through it to load them all and then segment them all. That may not be the most efficient however. I'll have to do some more looking into it.
+
+
+11/28/2018
+I spent about 3 hours today working through the machine learning book, whcih is proving to be a much beter resource than the computer vision text
+I also have.
+
+11/29/2018
+I did some reading on the Intro to MCMC paper. I hope to be able to have some findings by the end of tomorrow.
+
+Goals for tomorrow: have something to look into for Monday on putting some code down. 
