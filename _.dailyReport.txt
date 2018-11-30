@@ -56,7 +56,6 @@ Time:                            2:00-5:00
 Hours:                           3
 
 
-
 11/29/2018
 I did some reading on the Intro to MCMC paper. I hope to be able to have some findings by the end of tomorrow.
 
@@ -67,3 +66,11 @@ Hours:                           4.25
 
 
 11/30/2019
+Alright, I think I want to start with a Sobel filter. It was developed in the 70's and seems to be one of the simplest. It finds the edges based on the derivative, which I understand as well. 
+I want to understand this one at the logical level so I know what I'm doing going forward so I'm going to try to write this myself in Python (with a bit of help of course).
+
+Time:                            1:30-2:50
+Hours:                           ~1.5
+
+Total for this week:             13.5                   
+
