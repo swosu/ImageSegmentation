@@ -85,3 +85,11 @@ I spent most of today working on that, but finished it up and came in for an hou
 
 Time: 				4:00-5:00
 Hours:				1
+
+
+12/4/2018
+Today I looked into Sobel filters, and copied some code. It didn't seem to actually save correctly, but I think I understand the logic. I don't know if OpenCV
+does not exist anymore or I will just need to install it manually from the source code. I will try that route tomorrow. 
+
+Time: 				12:00-1:50, 2:15-5:00
+Hours: 				4.25
