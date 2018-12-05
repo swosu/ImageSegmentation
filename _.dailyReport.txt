@@ -93,3 +93,12 @@ does not exist anymore or I will just need to install it manually from the sourc
 
 Time: 				12:00-1:50, 2:15-5:00
 Hours: 				4.25
+
+
+12/5/2018
+Came in today and got to work on just getting a Sobel filter working. I 
+got it finally, then worked the rest of the time on understanding what it 
+was doing. Felt like it was a pretty productive day today. 
+
+Time:				12:00-1:00, 1:30-4:50
+Hours:				4.5
