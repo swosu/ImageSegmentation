@@ -98,6 +98,15 @@ Hours: 				4.25
 12/5/2018
 Came in today and got to work on just getting a Sobel filter working. I 
 got it finally, then worked the rest of the time on understanding what it 
+
+12/6/2019
+I spent a lot of time in lab today, but most of it was trying to take care of NASA Internship stuff. I also applied for the NASA L'Space program for this next spring.
+I picked out the 5 internships to look at for next meeting, as well as started looking for conferences. I also read through another chapter of the Machine Learning book.
+I need to find out how I can get my Sobel filter to not have the image size hard coded, so I need to retrieve the height and width from the image properties somehow. There
+is most likely a package that will let me do that. 
+
+Time: 				10:00-12:40, 1:00-5:00
+Hours: 				7
 was doing. Felt like it was a pretty productive day today. 
 
 Time:				12:00-1:00, 1:30-4:50
