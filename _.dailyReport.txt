@@ -98,6 +98,10 @@ Hours: 				4.25
 12/5/2018
 Came in today and got to work on just getting a Sobel filter working. I 
 got it finally, then worked the rest of the time on understanding what it 
+was doing. Felt like it was a pretty productive day today. 
+
+Time:				12:00-1:00, 1:30-4:50
+Hours:				4.5
 
 12/6/2019
 I spent a lot of time in lab today, but most of it was trying to take care of NASA Internship stuff. I also applied for the NASA L'Space program for this next spring.
@@ -107,7 +111,13 @@ is most likely a package that will let me do that.
 
 Time: 				10:00-12:40, 1:00-5:00
 Hours: 				7
-was doing. Felt like it was a pretty productive day today. 
 
-Time:				12:00-1:00, 1:30-4:50
-Hours:				4.5
+
+12/7/2018
+Today was mostly spent looking through papers related to the seminal work on the Sobel Filter, and learning how to retrieve image metadata in python. It went pretty well
+I think. 
+
+Time: 				1:10-4:30
+Hours: 				3.2
+
+Total for this week:		20
