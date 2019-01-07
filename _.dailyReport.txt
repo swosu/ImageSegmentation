@@ -121,3 +121,16 @@ Time: 				1:10-4:30
 Hours: 				3.2
 
 Total for this week:		20
+
+
+Week of 1/7/2018
+I am back from winter break, and ready to work. My goals for this week are to fix the hard coded issue in my sobel filter, look through some of the Robot OS documentation,
+and read through the papers that were finalized on finals week. 
+
+1/7/2018
+Alright, I got the hard coded issue fixed, and read through some ROS documentation. 
+The rest of the day I worked on getting opencv in python. I didn't think it would be a problem, but installing it through the ubuntu terminal is not working, and the source
+code isn't much better. 
+
+Time: 				9:00-11:50, 2:30-5:00
+Hours:				4.5
