@@ -134,3 +134,24 @@ code isn't much better.
 
 Time: 				9:00-11:50, 2:30-5:00
 Hours:				4.5
+
+1/8/2019
+Admittedly, Forgot to update the 8th and 9th, but I'll record hours here anyway.
+
+Time: 				9:30-11:50, 3:00-5:00
+Hours:				4.5
+
+1/9/2019
+Same as the 8th.
+
+Time:				9:30-11:50, 1:00-2:10
+Hours:				3.5
+
+1/10/2019
+Alright, so I've made some progress. I decided I'd install OpenCV, since it's used in ROS quite a bit, and also pertains to my current project. I've got a successful installation, but now I do not know how to 
+use it.... I can't even open an image in with it, and, frankly, the tutorials on their website are frustrating. It uses a lot of jargon that's just going over my head and none of it is explained. I'll keep at it for a bit longer though. I think I can crack it with enough time. 
+
+Time:				9:30-10:50, 2:30-5:00
+Hours:				4.5
+
+
