@@ -38,22 +38,18 @@ Week of 11/26/2018
 11/26/2018
 Did a little work on segmenting multiple images, as well as did some reading. I think I can use an array, then iterate through it to load them all and then segment them all. That may not be the most efficient however. I'll have to do some more looking into it.
 
-Time:                             2:00-3:45
-Hours:                            1.75
+
 
 11/27/2018
 Spent much of today messing around with programming ideas as well as reading through one of the papers.
 
-Time:                             10:00-12:50, 2:30-4:50
-Hours:                            ~4
 
 
 11/28/2018
 I spent about 3 hours today working through the machine learning book, whcih is proving to be a much beter resource than the computer vision text
 I also have.
 
-Time:                            2:00-5:00
-Hours:                           3
+
 
 
 11/29/2018
@@ -61,18 +57,14 @@ I did some reading on the Intro to MCMC paper. I hope to be able to have some fi
 
 Goals for tomorrow: have something to look into for Monday on putting some code down.
 
-Time:                            10:00-12:00, 2:45-5:00
-Hours:                           4.25
+
 
 
 11/30/2019
 Alright, I think I want to start with a Sobel filter. It was developed in the 70's and seems to be one of the simplest. It finds the edges based on the derivative, which I understand as well. 
 I want to understand this one at the logical level so I know what I'm doing going forward so I'm going to try to write this myself in Python (with a bit of help of course).
 
-Time:                            1:30-2:50
-Hours:                           ~1.5
-
-Total for this week:             13.5                   
+              
 
 
 
@@ -83,16 +75,14 @@ Week of 12/3/2018
 I got surprised today by a group project that I thought would be completed, but alas teammates never fail to let you down.
 I spent most of today working on that, but finished it up and came in for an hour. Looked through chapter 1.2.2 of my Machine Learning Text.
 
-Time: 				4:00-5:00
-Hours:				1
+
 
 
 12/4/2018
 Today I looked into Sobel filters, and copied some code. It didn't seem to actually save correctly, but I think I understand the logic. I don't know if OpenCV
 does not exist anymore or I will just need to install it manually from the source code. I will try that route tomorrow. 
 
-Time: 				12:00-1:50, 2:15-5:00
-Hours: 				4.25
+
 
 
 12/5/2018
@@ -100,8 +90,7 @@ Came in today and got to work on just getting a Sobel filter working. I
 got it finally, then worked the rest of the time on understanding what it 
 was doing. Felt like it was a pretty productive day today. 
 
-Time:				12:00-1:00, 1:30-4:50
-Hours:				4.5
+
 
 12/6/2019
 I spent a lot of time in lab today, but most of it was trying to take care of NASA Internship stuff. I also applied for the NASA L'Space program for this next spring.
@@ -109,18 +98,14 @@ I picked out the 5 internships to look at for next meeting, as well as started l
 I need to find out how I can get my Sobel filter to not have the image size hard coded, so I need to retrieve the height and width from the image properties somehow. There
 is most likely a package that will let me do that. 
 
-Time: 				10:00-12:40, 1:00-5:00
-Hours: 				7
+
 
 
 12/7/2018
 Today was mostly spent looking through papers related to the seminal work on the Sobel Filter, and learning how to retrieve image metadata in python. It went pretty well
 I think. 
 
-Time: 				1:10-4:30
-Hours: 				3.2
 
-Total for this week:		20
 
 
 Week of 1/7/2018
@@ -132,26 +117,23 @@ Alright, I got the hard coded issue fixed, and read through some ROS documentati
 The rest of the day I worked on getting opencv in python. I didn't think it would be a problem, but installing it through the ubuntu terminal is not working, and the source
 code isn't much better. 
 
-Time: 				9:00-11:50, 2:30-5:00
-Hours:				4.5
+
 
 1/8/2019
-Admittedly, Forgot to update the 8th and 9th, but I'll record hours here anyway.
+Admittedly, Forgot to update the 8th and 9th.
 
-Time: 				9:30-11:50, 3:00-5:00
-Hours:				4.5
+
 
 1/9/2019
 Same as the 8th.
 
-Time:				9:30-11:50, 1:00-2:10
-Hours:				3.5
+
 
 1/10/2019
 Alright, so I've made some progress. I decided I'd install OpenCV, since it's used in ROS quite a bit, and also pertains to my current project. I've got a successful installation, but now I do not know how to 
 use it.... I can't even open an image in with it, and, frankly, the tutorials on their website are frustrating. It uses a lot of jargon that's just going over my head and none of it is explained. I'll keep at it for a bit longer though. I think I can crack it with enough time. 
 
-Time:				9:30-10:50, 2:30-5:00
-Hours:				4.5
+1/11/2019
+OpenCV seems to work, using C++. I have managed to get positve tests on Sobel, Canny Edge Detecter, and a Prewitt filter. Next week I want to get that to work in Python. 
 
 
