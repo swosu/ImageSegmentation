@@ -1,0 +1,6 @@
+Developments in machine learning in recent years have created opportunities that previously never existed. One such field with an explosion of opportunity is image recognition, also known as computer vision; the process in which a machine analyzes a digital image. 
+In order for a machine to ‘see’ as a human does, it must break down the image in a process called image segmentation. The way the machine goes about doing this is important, and many algorithms exist to determine just how a machine will decide to group the pixels in an image. 
+This research is a validation study of related papers on image segmentation algorithms for machine learning.
+Algorithms for this study will be written in Python and tested on three different hardware environments: a laptop, a desktop, and a server. 
+Many fields have great use for computer vision, and its improvement is a good sign that more possibilities will open up with its application. Additionally, this study opens opportunities for students to see sophisticated code first hand. 
+This research was funded in part by the Dr. Snowden Memorial Scholarship with the NASA OKLAHOMA Space Grant Consortium. This material is based upon work supported by the National Aeronautics and Space Administration issued through the Oklahoma Space Grant Consortium.
